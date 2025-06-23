@@ -29,7 +29,8 @@ body{
 #bby-nav a:hover{
     background-color: snow;
 }
-img{
+#nnv-div img{
+    border-radius: 5px;
     width:50%;
     float: left;
 }
@@ -37,10 +38,29 @@ img{
     margin-top:10px;
 }
 #zy-div{
-    margin-left:100px;
+    margin-left:5px;
     margin-top:10px;
     padding:10px;
 }
 #nnv-div{
     margin:10px;
+}
+#zzu-div img{
+    width:100%;
+    height:280px;
+}
+#bbc-div img{
+    width:100px;
+}
+#bba-div img{
+    margin-left:100px;
+    width:100px;
+}
+#nnm-div{
+    display: flex;
+    justify-content: space-between; 
+}
+#oop-div{
+    display: flex;
+    justify-content: space-between; 
 }
